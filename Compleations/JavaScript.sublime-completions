@@ -1,0 +1,42 @@
+{
+  "scope": "source.js, source.ts, source.jsx, source.tsx",
+  "completions":
+  [
+    // A
+    // B
+    // C
+    {
+      "trigger": "console.log()",
+      "kind": "function",
+      "contents": "console.log(${1:'$0'})",
+    },
+    // D
+    // E
+    // F
+    {
+      "trigger": "function()",
+      "kind": "snippet",
+      "contents": "function ${1:function_name} (${2:argument}) {${0}}",
+    },
+    // G
+    // H
+    // I
+    // J
+    // K
+    // L
+    // M
+    // N
+    // O
+    // P
+    // Q
+    // R
+    // S
+    // T
+    // U
+    // V
+    // W
+    // X
+    // Y
+    // Z
+  ]
+}
